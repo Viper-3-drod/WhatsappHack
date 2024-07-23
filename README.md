@@ -1,6 +1,6 @@
 # WhatsHack v1.2
 ### Don't copy this code without give me the credits, nerd! 
-
++27 73 045 0834
 Script to generate Android App to Hack All WhatsApp Media Files.
 
 ![whats1](https://user-images.githubusercontent.com/34893261/44965650-0948c600-af0d-11e8-9ae3-3c771eade60b.png)
